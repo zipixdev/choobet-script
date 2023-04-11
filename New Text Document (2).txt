@@ -1,4 +1,4 @@
-
+https://choobet.net
 const DEBUG = !0
 const BET_BALANCE = 0.03 // max bankroll available to bet with
 const MAX_CUT_OFF = 1.5
